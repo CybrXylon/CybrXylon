@@ -1,7 +1,8 @@
 <h1>Hi, I'm Edwin! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
- <b>Cloud Security on Azure</b>
+
+ -<b>Cloud Security on Azure</b>
    -[Live SOC/HoneyNet in Azure](https://github.com/CybrXylon/Azure-SOC-Lab)
  
 
