@@ -4,7 +4,7 @@
 
  - <b>Cloud Security on Azure</b>
    - [Live SOC/HoneyNet in Azure](https://github.com/CybrXylon/Azure-SOC-Lab)
-    -Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+     -Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
  
 
 - <b>PowerShell</b>
