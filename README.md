@@ -4,18 +4,19 @@
 
  - <b>Cloud Security on Azure</b>
    - [Live SOC/HoneyNet in Azure](https://github.com/CybrXylon/Azure-SOC-Lab)
-       -Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+    - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
  
 
-- <b>PowerShell</b>
+- <b>Microsoft365/ActiveDirectory</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   -
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [SOC Analyst Part 5](https://www.youtube.com/watch?v=zCFEPNyain0)
 
