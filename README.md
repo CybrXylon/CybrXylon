@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  <b>Cloud Security on Azure</b>
-  -[Live SOC/HoneyNet in Azure](https://github.com/CybrXylon/Azure-SOC-Lab)
+  [Live SOC/HoneyNet in Azure](https://github.com/CybrXylon/Azure-SOC-Lab)
  
 
 - <b>PowerShell</b>
