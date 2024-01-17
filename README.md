@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edwin! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Edwin! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/edwin-rubio8/">Cybersecurity Professional</a> , <a href="https://www.youtube.com/channel/UC3cl7zVjabvRNdLOjxtJHDA">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
