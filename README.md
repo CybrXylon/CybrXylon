@@ -14,6 +14,7 @@
 
 - <b>Python</b>
   - [Random Password Generator)](https://github.com/CybrXylon/Python-Password-Generator)
+   - Passwords an important part of online security thus; this password generator helps create a long and diverse password for you 
 
 <h2>📺 YouTube Videos</h2>
 
