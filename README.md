@@ -13,7 +13,7 @@
   -
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Random Password Generator)](https://github.com/CybrXylon/Python-Password-Generator)
 
 <h2>📺 YouTube Videos</h2>
 
