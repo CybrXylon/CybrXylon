@@ -8,13 +8,10 @@
  
 
 - <b>Microsoft365/ActiveDirectory</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   -
 
 - <b>Python</b>
   - [Random Password Generator)](https://github.com/CybrXylon/Python-Password-Generator)
-   - Passwords an important part of online security thus; this password generator helps create a long and diverse password for you 
 
 <h2>📺 YouTube Videos</h2>
 
