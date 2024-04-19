@@ -9,6 +9,8 @@
 
 - <b>Microsoft365/ActiveDirectory</b>
   -
+- <b>Vulnerabilty Management </b>
+  -[Vulnerabilty Management using Nessus to Scan Metasploitable](https://github.com/CybrXylon/Vulnerability-Managment-w-Nessus-scan-on-Metasploitable)
 
 - <b>Python</b>
   - [Random Password Generator)](https://github.com/CybrXylon/Python-Password-Generator)
