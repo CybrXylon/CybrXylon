@@ -17,7 +17,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [SOC Analyst Part 5](https://www.youtube.com/watch?v=zCFEPNyain0)
+- [False Positive Tuning to Prevent Alert Fatigue](https://www.youtube.com/watch?v=zCFEPNyain0)
 
 <h2> 🤳 Connect with me:</h2>
 
